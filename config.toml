@@ -21,14 +21,14 @@ theme = "papercss-hugo-theme"
   dateFormat = "January 2, 2006"
 
 [menu]
-  [[menu.nav]]
-    name = "Blog"
-    url = "/"
-    weight = 1
-  [[menu.nav]]
-    name = "Tags"
-    url = "/tags/"
-    weight = 2
+#  [[menu.nav]]
+#    name = "Blog"
+#    url = "/"
+#    weight = 0
+#  [[menu.nav]]
+#    name = "Tags"
+#    url = "/tags/"
+#    weight = 2
   [[menu.nav]]
     name = "About"
     url = "/about/"
